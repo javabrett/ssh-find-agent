@@ -4,7 +4,7 @@ ssh-find-agent is a tool for locating existing ssh compatible agent processes (e
 
 ## Build Status
 
-[![Build Status](https://travis-ci.org/wwalker/ssh-find-agent.svg?branch=master)](https://travis-ci.org/wwalker/ssh-find-agent)
+[![Build Status](https://travis-ci.org/javabrett/ssh-find-agent.svg?branch=master)](https://travis-ci.org/javabrett/ssh-find-agent)
 
 ## Usage
 
